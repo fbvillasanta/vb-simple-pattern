@@ -1,0 +1,8 @@
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\bin\Debug\Practical_Simple-Pattern.exe
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\bin\Debug\Practical_Simple-Pattern.pdb
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\bin\Debug\Practical_Simple-Pattern.xml
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\obj\x86\Debug\Practical_Simple-Pattern.vbproj.GenerateResource.Cache
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\obj\x86\Debug\Practical_Simple-Pattern.exe
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\obj\x86\Debug\Practical_Simple-Pattern.xml
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\Practical_Simple-Pattern\Practical_Simple-Pattern\obj\x86\Debug\Practical_Simple-Pattern.pdb
